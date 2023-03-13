@@ -31,42 +31,42 @@
       "name":"Cristiano Ronaldo",
       "image_url":"file:///android_asset/video1.jpg",
       "video_url":"video1",
-      "voice_url":"video1.MP3"
+      "voice_url":"audio1.MP3"
     },
     {
       "id":2,
       "name":"Cristiano Ronaldo",
       "image_url":"file:///android_asset/video2.jpg",
       "video_url":"video2",
-      "voice_url":"video1.MP3"
+      "voice_url":"audio1.MP3"
     },
     {
       "id":3,
       "name":"Cristiano Ronaldo",
       "image_url":"file:///android_asset/video3.jpg",
       "video_url":"video3",
-      "voice_url":"video1.MP3"
+      "voice_url":"audio1.MP3"
     },
     {
       "id":4,
       "name":"Cristiano Ronaldo",
       "image_url":"file:///android_asset/video4.jpg",
       "video_url":"video4",
-      "voice_url":"video1.MP3"
+      "voice_url":"audio1.MP3"
     },
     {
       "id":5,
       "name":"Cristiano Ronaldo",
       "image_url":"file:///android_asset/video5.jpg",
       "video_url":"video5",
-      "voice_url":"video1.MP3"
+      "voice_url":"audio1.MP3"
     },
     {
       "id":6,
       "name":"Cristiano Ronaldo",
       "image_url":"file:///android_asset/video5.jpg",
       "video_url":"video6",
-      "voice_url":"video1.MP3"
+      "voice_url":"audio1.MP3"
     }
   ]
 }
