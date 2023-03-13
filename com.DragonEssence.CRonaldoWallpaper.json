@@ -1,0 +1,34 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal" : "688a56d7-7b9b-4dc4-b03e-40cd8905cc5d",
+      "interval_interstitial": 2,
+      "switch_ads_type": "native_banner_linear"
+    },
+
+    "ad_network": [
+      {
+        "name": "startapp",
+        "value": 0,
+
+        "appId_appKey_publisherId_gameId": "202553575",
+        "banner": "-",
+        "mrec": "-",
+        "inter": "-",
+        "native_ad": "-",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+    ]
+  },
+
+  "app_settings": {
+    "template_mode" : 2,
+    "open_image_mode_square": false,
+
+    "offline" : true,
+
+    "online" : false,
+    "online_url_json" : "https://tes.com/json_online.json"
+  }
+}
