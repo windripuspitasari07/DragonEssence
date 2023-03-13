@@ -1,0 +1,72 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal" : "3c5ac255-129a-45a2-9d5d-2c6b2f03ce8e",
+      "interval_interstitial": 2,
+      "switch_ads_type": "native_banner_linear"
+    },
+
+    "ad_network": [
+      {
+        "name": "admob",
+        "value": 0,
+
+        "appId_appKey_publisherId_gameId": "-",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "mrec": "ca-app-pub-3940256099942544/6300978111",
+        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "native_ad": "ca-app-pub-3940256099942544/2247696110",
+        "open_ad": "ca-app-pub-3940256099942544/3419835294",
+        "splash_ad": false
+      }
+    ]
+  },
+  "app_settings": {
+    "template_mode" : 1
+  },
+
+  "Item": [
+    {
+      "id":1,
+      "name":"Cristiano Ronaldo",
+      "image_url":"file:///android_asset/video1.jpg",
+      "video_url":"video1",
+      "voice_url":"video1.MP3"
+    },
+    {
+      "id":2,
+      "name":"Cristiano Ronaldo",
+      "image_url":"file:///android_asset/video2.jpg",
+      "video_url":"video2",
+      "voice_url":"video1.MP3"
+    },
+    {
+      "id":3,
+      "name":"Cristiano Ronaldo",
+      "image_url":"file:///android_asset/video3.jpg",
+      "video_url":"video3",
+      "voice_url":"video1.MP3"
+    },
+    {
+      "id":4,
+      "name":"Cristiano Ronaldo",
+      "image_url":"file:///android_asset/video4.jpg",
+      "video_url":"video4",
+      "voice_url":"video1.MP3"
+    },
+    {
+      "id":5,
+      "name":"Cristiano Ronaldo",
+      "image_url":"file:///android_asset/video5.jpg",
+      "video_url":"video5",
+      "voice_url":"video1.MP3"
+    },
+    {
+      "id":6,
+      "name":"Cristiano Ronaldo",
+      "image_url":"file:///android_asset/video5.jpg",
+      "video_url":"video6",
+      "voice_url":"video1.MP3"
+    }
+  ]
+}
